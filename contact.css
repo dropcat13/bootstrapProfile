@@ -6,3 +6,15 @@
 .container{
     padding: 50px;
 }
+
+#name{ 
+    width: 100%;
+}
+
+#email{ 
+    width: 100%;
+}
+
+#message{ 
+    width: 100%;
+}
