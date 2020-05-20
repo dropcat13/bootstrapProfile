@@ -13,4 +13,4 @@ Catherine Kretzschmar
 Thanks Mr. TA for helping me with the flex-end stuff! 
 
 ### Link to deployed site
-https://dropcat13.github.io/homework2-bootstrap/portfolio.html
+[Bootstrap Profile](https://dropcat13.github.io/bootstrapProfile/)
